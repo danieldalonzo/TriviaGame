@@ -6,3 +6,5 @@ The user will have one minute to answer five multiple choice questions after the
 * Javascript
 * jQuery
 * CSS Bootstrap
+
+https://adamcsiks.github.io/TriviaGame/
